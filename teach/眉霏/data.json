@@ -1,0 +1,5 @@
+{
+    "Alice": {"Math": 85, "English": 90, "Science": 92},
+    "Bob": {"Math": 78, "English": 88, "Science": 85},
+    "Charlie": {"Math": 95, "English": 89, "Science": 91}
+}
